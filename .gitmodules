@@ -1,0 +1,6 @@
+[submodule "application-gateway-gis-datasharing"]
+	path = application-gateway-gis-datasharing
+	url = git@github.com:Shankusu993/application-gateway-gis-datasharing.git
+[submodule "trustless-data-sharing-system"]
+	path = trustless-data-sharing-system
+	url = git@github.com:Shankusu993/trustless-data-sharing-system.git
