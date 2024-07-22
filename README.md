@@ -8,6 +8,22 @@ Note that the Paper has 2 major components implemented in different sub reposito
 -  The application gateway implementation
 -  The smartcontracts implemenation on hyperledger fabric framework
 
+## Reference
+
+If you use any code in this repository, or want to cite the GeoBlocks work, please cite the following paper:
+
+```
+@inproceedings{agarwal2024geoblocks,
+  title={GeoBlocks: Trustless Geospatial Data Sharing with Accountability and Decentralized Access Control},
+  author={Agarwal, Pankaj Kumar and Chadha, Amrit and Ghosh, Bishakh Chandra and Ghosh, Soumya K and Chakraborty, Sandip},
+  booktitle={2024 6th Conference on Blockchain Research \& Applications for Innovative Networks and Services (BRAINS)},
+  year={2024},
+  organization={IEEE}
+}
+```
+
+
+
 ## GeoServer setup
 
 This guide assumes each participant already has a geoserver running locally to which the application gateway connects. If you don't have one, you can use a test docker setup as below
